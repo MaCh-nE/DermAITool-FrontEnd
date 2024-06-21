@@ -1,8 +1,8 @@
-# React + Vite
+# DermAItool react application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app sums up the whole front-end of DermAItool, using boith TailwindCSS aand native approachs for styling.
 
-Currently, two official plugins are available:
+Currently, the app consists of:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- A REACT functionnal component for each UI element.
+- Assets & a Sub-linked "Image repo" to the main image repository in the host machine, cloning it completely, and dynamically chagnging after each tweak in the main one, due to current external image upload bugs in REACT.
