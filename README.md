@@ -1,6 +1,6 @@
 # DermAItool react application
 
-This app sums up the whole front-end of DermAItool, using boith TailwindCSS aand native approachs for styling.
+This app sums up the whole front-end of DermAItool, using both TailwindCSS and native approachs for styling.
 
 Currently, the app consists of:
 
